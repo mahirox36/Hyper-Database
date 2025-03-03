@@ -5,15 +5,15 @@ Hyper Database
 an advance asyncio database wrapper
 
 :copyright: (c) 2025 MahiroX36
-:copyright: (c) 2025 Void
+:copyright: (c) 2025 iVoid1
 
 :license: MIT, see LICENSE for more details.
 """
 
 __title__ = "hyper-database"
-__author__ = "MahiroX36 & Void"
+__author__ = "MahiroX36 & iVoid1"
 __license__ = "MIT"
-__copyright__ = "Copyright 2025 Mahirox36 & 2025 Void"
+__copyright__ = "Copyright 2025 Mahirox36 & 2025 iVoid1"
 # Placeholder, modified by dynamic-versioning.
 __version__ = "0.0.0"
 
