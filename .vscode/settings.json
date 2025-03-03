@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "yousef"
-    ]
+    ],
+    "material-icon-theme.files.associations": {
+        "*.hdb": "database"
+    }
 }
