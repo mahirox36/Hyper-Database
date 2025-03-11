@@ -13,7 +13,7 @@ an advance asyncio database wrapper
 __title__ = "hyper-database"
 __author__ = "MahiroX36 & iVoid1"
 __license__ = "MIT"
-__copyright__ = "Copyright 2025 Mahirox36 & 2025 iVoid1"
+__copyright__ = "Copyright 2025 MahiroX36 & 2025 iVoid1"
 # Placeholder, modified by dynamic-versioning.
 __version__ = "0.0.0"
 
