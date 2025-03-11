@@ -9,6 +9,7 @@ def convert_to_string(data: bytes) -> str:
     return data.decode('utf-8')
 
 class Persister:
+    
     def __init__(self, filename: str):
         """Initialize the Persister with a filename."""
         self.filename = f"{filename}.hdb"
