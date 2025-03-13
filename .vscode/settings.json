@@ -4,5 +4,6 @@
     ],
     "material-icon-theme.files.associations": {
         "*.hdb": "database"
-    }
+    },
+    "python.analysis.typeCheckingMode": "basic"
 }
