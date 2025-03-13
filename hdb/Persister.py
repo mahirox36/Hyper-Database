@@ -32,7 +32,7 @@ class Persister:
         with open(self.filename, 'rb') as file:
             return file.read()
 
-    def write_binary(self, text: str):
+    def write_binary(self, text: str) -> None:
         """Write binary data from a string."""
         with open(self.filename, "wb") as file:
             file.write(convert_to_binary(text))
